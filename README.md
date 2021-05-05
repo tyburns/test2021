@@ -3,3 +3,4 @@
 hello! Welcome!
 Adding a new commit from my local R
 Adding a new commit from Git Hub
+Note: Therese was here!
