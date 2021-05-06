@@ -9,6 +9,6 @@ Eric's fun fact: A group of hummingbirds is called a charm!
 
 Eric's fun fact # 2: Seabirds have a pretty awesome sense of smell!
 
-=======
+
 Therese has added a branch!
->>>>>>> 7bab60590f0905ab5ff8b69501cae22d90d220ff
+
