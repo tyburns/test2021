@@ -7,3 +7,4 @@ Therese's fun fact: A group of jellyfish is called a smack!
 Eric's fun fact: A group of hummingbirds is called a charm!
 
 Eric's fun fact # 2: Seabirds have a pretty awesome sense of smell!
+
