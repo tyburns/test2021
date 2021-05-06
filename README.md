@@ -3,3 +3,5 @@
 Hello and welcome to the test 2021 repo! Please add a commit below: 
 
 Therese's fun fact: A group of jellyfish is called a smack! 
+
+Eric's fun fact: A group of hummingbirds is called a charm!
