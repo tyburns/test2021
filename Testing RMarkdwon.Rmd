@@ -27,8 +27,16 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-Here's a boxplot:
 
+Here's a boxplot:
 ```{r pressure boxplot, echo=FALSE}
 boxplot(pressure)
 ```
+
+```{r}
+library(ggplot2)
+data(iris)
+View(iris)
+```
+
+
